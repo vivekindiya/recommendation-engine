@@ -10,3 +10,5 @@ In this this implementation you need to pass the input movie based on which you 
 print(get_recommendations('Silence of the Lambs, The (1991)', movie_ratings_pivot, 5))
 
 Then above method will return top 5 realted movies which was generated using Pearson correlation coefficient.
+
+# Make sure you install python 3.x and scikit learn package
